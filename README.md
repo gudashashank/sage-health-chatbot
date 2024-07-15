@@ -57,13 +57,12 @@ Testing was crucial. We conducted extensive tests to ensure Sage's responses wer
 Participating in this hackathon has been an enriching experience. Creating Sage not only allowed us to explore the fascinating world of AI and chatbots but also gave us the satisfaction of building something that can genuinely help people. We are proud of what we've achieved and excited about the potential impact of Sage in providing timely first-aid advice.
 <div align="center">
     <a href="https://sage-health-chatbot.streamlit.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Learn%20More-Click%20Here-brightgreen?style=for-the-badge" alt="App">
+        <img src="https://img.shields.io/badge/Sage%20App-Click%20Here-brightgreen?style=for-the-badge" alt="Sage App">
     </a>
 </div>
 
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=KW_vmMp5Tuw" target="_blank" style="display: inline-block; padding: 10px 15px; background-color: red; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Video" width="20" style="vertical-align: middle; margin-right: 8px;"/>
-        Watch the Demo Video
+    <a href="https://www.youtube.com/watch?v=KW_vmMp5Tuw" target="_blank">
+        <img src="https://img.shields.io/badge/Watch%20Video-Click%20Here-red?style=for-the-badge" alt="Watch Video">
     </a>
 </div>
