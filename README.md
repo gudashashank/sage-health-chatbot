@@ -14,7 +14,9 @@ Throughout this project, we learned a great deal about both the technical and pr
 
 ## Building Sage
 
-![Sage](./SAGE.jpeg)
+<div align="center">
+    <img src="./SAGE.jpeg" alt="SAGE" width="300" height="300"/>
+</div>
 
 ### Step 1: Research and Data Collection
 
@@ -30,6 +32,10 @@ We used Mistral 7B for Sage's NLP engine. This involved:
 ### Step 3: Building the Chat Interface
 
 We developed the chat interface using Streamlit for its simplicity and effectiveness in creating interactive web apps. The interface needed to be clean, responsive, and easy to use.
+
+<div align="center">
+    <img src="./Sage_UI.jpeg" alt="SAGE" width="1000" height="500"/>
+</div>
 
 ### Step 4: Integration with Medical Data
 
@@ -52,5 +58,12 @@ Participating in this hackathon has been an enriching experience. Creating Sage 
 <div align="center">
     <a href="https://sage-health-chatbot.streamlit.app/" target="_blank">
         <img src="https://img.shields.io/badge/Learn%20More-Click%20Here-brightgreen?style=for-the-badge" alt="App">
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://www.youtube.com/watch?v=KW_vmMp5Tuw" target="_blank" style="display: inline-block; padding: 10px 15px; background-color: red; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Video" width="20" style="vertical-align: middle; margin-right: 8px;"/>
+        Watch the Demo Video
     </a>
 </div>
