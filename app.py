@@ -147,7 +147,7 @@ if prompt := st.chat_input("Chat with Sage..."):
 
 # Sidebar
 with st.sidebar:
-    st.image("C:/Users/shash/OneDrive/Desktop/Sage/SAGE.jpeg", width=300)
+    st.image("/workspaces/sage-health-chatbot/Sage_UI.jpeg", width=300)
     st.title("About Sage")
     st.markdown(
         """
