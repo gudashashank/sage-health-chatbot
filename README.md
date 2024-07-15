@@ -49,6 +49,6 @@ Testing was crucial. We conducted extensive tests to ensure Sage's responses wer
 Participating in this hackathon has been an enriching experience. Creating Sage not only allowed us to explore the fascinating world of AI and chatbots but also gave us the satisfaction of building something that can genuinely help people. We are proud of what we've achieved and excited about the potential impact of Sage in providing timely first-aid advice.
 <div align="center">
     <a href="https://sage-health-chatbot.streamlit.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Learn%20More-Click%20Here-brightgreen?style=for-the-badge" alt="Learn More">
+        <img src="https://img.shields.io/badge/Learn%20More-Click%20Here-brightgreen?style=for-the-badge" alt="App">
     </a>
 </div>
