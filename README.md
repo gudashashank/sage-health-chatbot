@@ -14,6 +14,8 @@ Throughout this project, we learned a great deal about both the technical and pr
 
 ## Building Sage
 
+![Sage](./SAGE.jpeg)
+
 ### Step 1: Research and Data Collection
 
 We started by researching common injuries and their first-aid treatments. We gathered data from reputable sources such as the Red Cross and medical journals. This data formed the basis of the knowledge Sage would use to provide first-aid suggestions.
