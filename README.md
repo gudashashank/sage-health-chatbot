@@ -46,7 +46,7 @@ We integrated our NLP engine with the medical data to ensure that Sage could pro
 Testing was crucial. We conducted extensive tests to ensure Sage's responses were accurate and helpful. Feedback from users helped us refine and improve the bot's performance.
 
 ## Award Won
-# 🏆 Wolfram Award
+### 🏆 Wolfram Award
 
 ![Wolfram Logo](https://upload.wikimedia.org/wikipedia/commons/e/eb/WolframCorporateLogo.svg)
 
