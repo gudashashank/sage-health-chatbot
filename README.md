@@ -45,6 +45,18 @@ We integrated our NLP engine with the medical data to ensure that Sage could pro
 
 Testing was crucial. We conducted extensive tests to ensure Sage's responses were accurate and helpful. Feedback from users helped us refine and improve the bot's performance.
 
+## Award Won
+# 🏆 Wolfram Award
+
+![Wolfram Logo](https://upload.wikimedia.org/wikipedia/commons/e/eb/WolframCorporateLogo.svg)
+
+I am honored to have received the **Wolfram Award**, recognizing excellence in computational programming and innovation.
+
+> *"The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'"*  
+> — Isaac Asimov
+
+---
+
 ## Challenges We Faced
 
 1. **Data Accuracy**: Ensuring the accuracy of medical data was paramount. We had to cross-reference multiple sources to verify information.
