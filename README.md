@@ -64,6 +64,10 @@ I am honored to have received the **Wolfram Award**, recognizing excellence in c
 3. **User Interaction**: Designing an interface that was both functional and user-friendly required careful planning and continuous feedback from potential users.
 4. **Real-Time Processing**: Ensuring Sage could process and respond to queries in real-time without lag was a technical challenge that required optimizing our code and infrastructure.
 
+📝 **Note:**  
+This app will remain available until my current API credits are exhausted. At this time, I am unable to provide an option for users to connect their own API to the app. I apologize for the inconvenience and appreciate your understanding.
+
+
 ## Conclusion
 
 Participating in this hackathon has been an enriching experience. Creating Sage not only allowed us to explore the fascinating world of AI and chatbots but also gave us the satisfaction of building something that can genuinely help people. We are proud of what we've achieved and excited about the potential impact of Sage in providing timely first-aid advice.
